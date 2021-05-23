@@ -1,14 +1,14 @@
 Atividade Engenharia de Software
 
 Componentes: 
-Allan Daivysson
-Fernando Hierro
-Leonardo Lima
-Nathan Rocha
-Ely Jennipher
-Paulo Miqueias
-Marcos Oliveira
-Elton Barreto
+Allan Daivysson, 
+Fernando Hierro, 
+Leonardo Lima, 
+Nathan Rocha, 
+Ely Jennipher, 
+Paulo Miqueias, 
+Marcos Oliveira, 
+Elton Barreto, 
 Jose Wendson 
 
 Ferramentas Case
