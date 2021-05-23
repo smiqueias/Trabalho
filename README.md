@@ -1,6 +1,7 @@
 Atividade Engenharia de Software
 
-Componentes: Allan Daivysson
+Componentes: 
+Allan Daivysson
 Fernando Hierro
 Leonardo Lima
 Nathan Rocha
